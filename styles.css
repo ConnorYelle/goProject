@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    background: #787a7c;
+
+}
+
+body {
+    background: #999b9e;
+    margin: 0;
+    font-family: 'Sans-serif', Verdana, Arial, Helvetica, sans-serif;
+    color: #660808;
+}
+
+#mainTitle {
+    font-size: 3em;
+    text-align: center;
+    margin: 20px 20px;
+    background-color: rgb(107, 107, 107);
+    padding: 13px;
+    border-radius: 20px;
+}
